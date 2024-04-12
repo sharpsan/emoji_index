@@ -1,7 +1,7 @@
 # emoji_index
 
-Made those simple souls who use keyboard apps lacking extra bloat.
-Find emojis using a dedicated app.
+This is an app for all those simple souls who use keyboards that lack the extra bloat.
+With Emoji Index, you can find emojis using a standalone app.
 
 ## Code Generation
 We use the auto_route package for navigation.  To update, run:
