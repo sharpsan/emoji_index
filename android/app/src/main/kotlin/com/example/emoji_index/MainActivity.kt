@@ -1,4 +1,4 @@
-package com.example.emoji_index
+package com.sharpsan.emoji_index
 
 import io.flutter.embedding.android.FlutterActivity
 
