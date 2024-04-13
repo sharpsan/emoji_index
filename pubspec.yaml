@@ -1,5 +1,5 @@
 name: emoji_index
-description: "A new Flutter project."
+description: "Find emojis without using an emoji-compatible keyboard."
 publish_to: 'none'
 
 version: 1.0.0+1
